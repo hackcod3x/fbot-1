@@ -1,6 +1,6 @@
 #!/bin/bash
 #issued on : MEMEK
-#coded By RAHIM AR
+#coded By ALIF PUTRA DARMAWAN
 waktu=$(date '+%Y-%m-%d %H:%M:%S')
 green="\e[1;32m"
 red="\e[1;31m"
@@ -17,9 +17,9 @@ clear
 header(){
 printf "${GREEN}
          ######################################
-         ##          FACEBOOK BOT MUX.       ##${BLUE}
-         ##          By : X-Mr. R4h1M        ##${RED}
-         ##      AndroSec1337 Cyber Team.    ##${NOCOLOR}
+         ##        FACEBOOK TOOLS TERMUX.    ##${BLUE}
+         ##         ALIF PUTRA DARMAWAN      ##${RED}
+         ##              HACKCOD3X.          ##${NOCOLOR}
 	 ######################################${GREEN}
 "
 }
